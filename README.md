@@ -29,7 +29,7 @@ We are subjects with enforceable data subject rights guaranteed by Article 8 of 
 4. For multiple accounts: send one email with all platforms in BCC to simplify the process
 
 ### Your Data, Your Choice
-The law is on your side, but only you better assert your rights to maintain control of your digital identity.
+The law is on your side, but you better your rights to maintain control of your digital identity.
 
 ### In case of Pushback
 If this repository faces takedown attempts, we will immediately restore it at [www.simpliant.eu](https://www.simpliant.eu).
