@@ -34,19 +34,9 @@ The law is on your side, but only you better assert your rights to maintain cont
 If this repository faces takedown attempts, we will immediately restore it at [www.simpliant.eu](https://www.simpliant.eu).
 
 
-# Objection under GDPR
+# Objection under GDPR (EN)
 
 **Subject:** Objection to the processing of my personal data for AI training purposes and direct marketing pursuant to Art. 21 GDPR
-
----
-
-**To:** [Name of company/controller]  
-**From:** Michaela Muster  
-**Address:** Musterweg 1, 99999 Musterstadt  
-**Email:** muster@email.de  
-**Date:** [Current date]
-
----
 
 ## Dear Sir or Madam,
 
@@ -73,52 +63,5 @@ In the event that my objection is not complied with and damage results from this
 Yours sincerely,
 
 Michaela Muster  
-Musterweg 1  
-99999 Musterstadt  
-muster@email.de
-
-## # Widerspruch nach DSGVO
-
-**Betreff:** Widerspruch gegen die Verarbeitung meiner personenbezogenen Daten zu KI-Trainingszwecken und Direktwerbung gemäß Art. 21 DSGVO
-
----
-
-**An:** [Name des Unternehmens/Verantwortlichen]  
-**Von:** Michaela Muster  
-**Adresse:** Musterweg 1, 99999 Musterstadt  
-**E-Mail:** muster@email.de  
-**Datum:** [Aktuelles Datum]
-
----
-
-## Sehr geehrte Damen und Herren,
-
-hiermit widerspreche ich der Verarbeitung meiner personenbezogenen Daten zu Zwecken des Trainings Künstlicher Intelligenz gemäß Art. 21 Abs. 1 DSGVO, insbesondere soweit sich diese Verarbeitung auf Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse) stützt.
-
-Die Verwendung personenbezogener Daten für das Training von KI-Systemen führt zu einem strukturellen Kontrollverlust über deren Nutzung. Es ist nicht absehbar, in welchen Kontexten die Daten in trainierten Modellen weiterverarbeitet und welche Inhalte daraus generiert werden. Insbesondere besteht das Risiko, dass KI-Modelle dauerhaft unzutreffende oder persönlichkeitsrechtsverletzende Inhalte erzeugen – etwa falsche Angaben zu strafrechtlich relevanten Vorgängen oder andere rufschädigende Aussagen –, die sich nicht nachträglich korrigieren lassen. Dies stellt eine erhebliche und nicht zu rechtfertigende Gefährdung meiner Persönlichkeitsrechte dar. 
-
-Ich fordere Sie daher auf, jede weitere Verarbeitung meiner personenbezogenen Daten zu diesen Zwecken, insbesondere auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO, zu unterlassen.
-
-Darüber hinaus widerspreche ich gemäß Art. 21 Abs. 2 DSGVO ausdrücklich der Verarbeitung meiner personenbezogenen Daten zu Zwecken der Direktwerbung.
-
-Zur Identifikation bin ich bereit, soweit erforderlich, einen Bestätigungscode oder eine andere Form der Verifikation an diese E-Mail-Adresse entgegenzunehmen. Ich bitte darum, ausschließlich diese E-Mail-Adresse für die weitere Kommunikation zu verwenden und keine Webformulare oder sonstige alternative Kontaktwege zu verlangen. Ich weise darauf hin, dass die DSGVO keine Verpflichtung zur Nutzung solcher Kanäle vorsieht.
-
-Falls meine personenbezogenen Daten bereits für das Training von KI-Systemen verwendet wurden, fordere ich Sie gemäß Art. 15 DSGVO dazu auf, mir hierüber Auskunft zu erteilen, insbesondere über:
-- den Zweck
-- die Kategorien betroffener Daten
-- etwaige Empfänger sowie
-- die Speicherdauer oder Kriterien für deren Festlegung
-
-Ich setze Ihnen eine Frist von **7 Tagen** ab Zugang dieser E-Mail, um mir den Eingang meines Widerspruchs per E-Mail zu bestätigen und mir das weitere Vorgehen mitzuteilen. Sollte ich innerhalb dieser Frist keine Rückmeldung erhalten, behalte ich mir vor, eine Beschwerde bei der zuständigen Datenschutzaufsichtsbehörde einzureichen. 
-
-Für den Fall, dass meinem Widerspruch nicht entsprochen wird und daraus ein Schaden entsteht, behalte ich mir vor, Schadensersatzansprüche gemäß Art. 82 DSGVO geltend zu machen.
-
-Mit freundlichen Grüßen,
-
-Michaela Muster  
-Musterweg 1  
-99999 Musterstadt  
-muster@email.de
-
 
 
