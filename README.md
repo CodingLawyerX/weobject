@@ -1,8 +1,4 @@
-# weobject (version 0.1)
-
-
-
-## We Object to the Training of Your New AI Model With Our Personal Data!
+## We Object to AI Training With Our Personal Data! (v.0.1)
 
 Meta, Google, OpenAI, Microsoft, X and other tech giants train their AI models on your personal data.
 
