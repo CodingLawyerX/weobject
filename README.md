@@ -1,18 +1,35 @@
-#weobject (version 0.1)
+# weobject (version 0.1)
 
-We Object to the Training of Your New AI Model With Our Personal Data!
+## We Object to the Training of Your New AI Model With Our Personal Data!
 
-We object because we are not objects.
+### The Legal Reality
+Meta, Google, OpenAI, Microsoft, X and other tech giants train their AI models on your personal data.
 
-Rather we are subjects with data subject rights (Art. 8 EU Charter of Fundamental Rights & GDPR).
+They base this on GDPR Article 6(1)(f) "legitimate interest", although this is not a valid legal basis for most cases of AI-training. Despite this legal boundary, they are proceeding anyway, betting that most people won't object. Once your data is absorbed into their models, it's too late—the damage is done and cannot be undone.
 
-All you have to do to object is use the e-mail templates and address it to the platforms concerned.
+### Why You Must Act Now
+- **Prevention is the Only Solution**: After your data trains their models, almost no technical solution exists to remove its influence
+- **They're Betting on Your Silence**: These companies are deliberately moving forward, counting on mass inaction
+- **Your Rights Are Being Trampled**: The fundamental right to control your personal data is being systematically violated
+- **Billion-Dollar Profit from Your Personal Life**: Your intimate posts, photos, and communications become corporate assets without compensation
+- **Permanent Digital Shadow**: AI systems will forever contain and potentially misuse traces of your personal information
 
-You can find the addresses of the most relevant platforms in the .csv file.
+### Our Position
+**We object because we are not objects.**
 
-If you have multiple accounts registered with the same e-mail you can write one generic e-mail putting all the recipients' e-mails in BCC.
+We are subjects with enforceable data subject rights guaranteed by Article 8 of the EU Charter of Fundamental Rights and the GDPR.
 
-P.S. If this repo were to be taken offline we will upload it on our homepage again www.simpliant.eu. 
+### Take Immediate Action
+1. Use our ready-made GDPR objection template
+2. Send it directly to every platform where you have accounts
+3. Most platform email addresses are provided in the attached .csv file
+4. For multiple accounts: send one email with all platforms in BCC to simplify the process
+
+### Your Data, Your Choice
+The law is on your side, but only you better assert your rights to maintain control of your digital identity.
+
+### In case of Pushback
+If this repository faces takedown attempts, we will immediately restore it at [www.simpliant.eu](https://www.simpliant.eu).
 
 
 # Objection under GDPR
