@@ -25,7 +25,7 @@ We are subjects with enforceable data subject rights guaranteed by Article 8 of 
 ### Take Immediate Action
 1. Use our ready-made GDPR objection template
 2. Send it directly to every platform where you have accounts
-3. Most platform email addresses are provided in the attached .csv file
+3. Most platform email addresses are provided in the attached file
 4. For multiple accounts: send one email with all platforms in BCC to simplify the process
 
 ### Your Data, Your Choice
