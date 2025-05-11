@@ -1,8 +1,9 @@
 # weobject (version 0.1)
 
+
+
 ## We Object to the Training of Your New AI Model With Our Personal Data!
 
-### The Situation
 Meta, Google, OpenAI, Microsoft, X and other tech giants train their AI models on your personal data.
 
 E.g. Meta wants to traing on your data if you don't object until 27th of May 2025 (https://about.fb.com/news/2025/04/making-ai-work-harder-for-europeans/)
