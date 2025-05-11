@@ -4,7 +4,11 @@ Meta, Google, OpenAI, Microsoft, X and other tech giants train their AI models o
 
 Meta for example wants to traing on your Instagram and Facebook data if you don't object until 27th of May 2025 (https://about.fb.com/news/2025/04/making-ai-work-harder-for-europeans/)
 
-They base this on GDPR Article 6(1)(f) "legitimate interest", although this is not a valid legal basis for most cases of AI-training. Despite this legal boundary, they are proceeding anyway, betting that most people won't object. Once your data is absorbed into their models, it's too late—the damage is done and cannot be undone.
+They base this on GDPR Article 6(1)(f) "legitimate interest", although this is not a valid legal basis in most cases. 
+
+Despite this legal boundary, they are proceeding anyway, betting that most people won't object. 
+
+Once your data is absorbed into their models, it's too late—the damage is done and cannot be undone.
 
 ### Why You Must Act Now
 - **Prevention is the Only Solution**: After your data trains their models, almost no technical solution exists to remove its influence
